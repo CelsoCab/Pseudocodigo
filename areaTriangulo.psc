@@ -14,5 +14,9 @@ Algoritmo areaTriangulo
 	Leer h
 	resultado  <- (b * h) / 2
 	
+	Escribir "Hola Mundo"
+	
+	Escribir 20+30
+	
 	Escribir "El area de l triangulo es: ", resultado
 FinAlgoritmo
